@@ -5,7 +5,7 @@
 ### 1. Clone repo and submodules
 
 ```bash
-git clone https://github.com/actboy168/luamake
+git clone https://github.com/qompassai/luamake
 cd luamake
 git submodule update --init
 ```
